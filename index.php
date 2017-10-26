@@ -1,1 +1,1 @@
-<?php header( 'Location: vr/index.html' ) ;  ?>
+<?php header( 'Location: /index.vr.js' ) ;  ?>
